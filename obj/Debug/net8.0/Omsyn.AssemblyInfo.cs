@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Omsyn")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6236b9595ece1327c2310dee4e629bec868baf81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfcc937e59ea9234cbc1a637b8f089b6af84d192")]
 [assembly: System.Reflection.AssemblyProductAttribute("Omsyn")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Omsyn")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

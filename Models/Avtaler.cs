@@ -10,7 +10,7 @@ public class Avtaler
     public string PersonalId { get; set; } // FK til personal
 
     public DateTime Tid { get; set; }
-    public string Oppgave { get; set; } = string.Empty;
+    public string Oppgave { get; set; } 
     public string? Notat { get; set; }
 }
 
