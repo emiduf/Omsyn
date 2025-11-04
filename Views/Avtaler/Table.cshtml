@@ -9,5 +9,24 @@
     <title>Avtaler</title>
 </head>
 <body>
+    <div class="container">
+    <h1>@ViewBag.CurrentViewName</h1>
+    <table class='table table-striped'>
+    <!--Lager tabelloverskrifter -->
+        <tr><th>KlientId</th><th>PersonalId</th><th>Tid</th><th>Oppgave</th><th>Notat</th></tr>
+        <!-- Razor foreach-løkke, itererer gjennom hver avtale i Model -->
+        <!-- Model er et dynamisk objekt som sendes til view fra controlleren-->
+        @foreach (var Avtaler in Model)
+        {
+            <tr>
+                <td>@Avtaler.KlientId</td>
+                <td>@Avtaler.PersonalId</td>
+                <td>@Avtaler.Tid</td>
+                <td>@Avtaler.Oppgave</td>
+                <td>@Avtaler.Notat</td>
+            </tr>
+        }
+    </table>
+    </div>
 </body>
 </html>
