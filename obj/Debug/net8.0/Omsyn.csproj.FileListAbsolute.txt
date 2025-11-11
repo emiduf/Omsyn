@@ -28,3 +28,4 @@
 /Users/emiliedufseth/Documents/Helseapp/Omsyn/obj/Debug/net8.0/Omsyn.pdb
 /Users/emiliedufseth/Documents/Helseapp/Omsyn/obj/Debug/net8.0/Omsyn.genruntimeconfig.cache
 /Users/emiliedufseth/Documents/Helseapp/Omsyn/obj/Debug/net8.0/ref/Omsyn.dll
+/Users/emiliedufseth/Documents/Helseapp/Omsyn/obj/Debug/net8.0/Omsyn.sourcelink.json
